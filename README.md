@@ -1,4 +1,11 @@
 # EntropyTextMerger
+Example entropy based text chunker. Inspired by Byte Latent Transformer paper from META, and Andrej Karpathy's BPE Tokenizer.
+
+# Usage
+```bash
+python main.py
+```
+## Output
 
 ```bash
 Chunking results after training:

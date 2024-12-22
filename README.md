@@ -5,6 +5,16 @@ Example entropy based text chunker. Inspired by Byte Latent Transformer paper fr
 ```bash
 python main.py
 ```
+Training data is stored in the variable:
+```python
+corpus = [
+    "This is the first document for training.",
+    "Another example document to train the model.",
+    "Training helps in understanding text patterns.",
+    "More training data for better probability estimation."
+]
+```
+
 ## Output
 
 ```bash
